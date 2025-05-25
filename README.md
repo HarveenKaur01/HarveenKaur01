@@ -1,11 +1,11 @@
 # Hi there, I'm Harveen! 🚀
-Welcome to my GitHub profile! 
-As an aerospace engineering enthusiast, I’m always diving into literal rocket science—because when your work involves pushing the boundaries of flight, gravity just becomes a suggestion..
+Welcome to my GitHub profile!  
+As an aerospace engineering enthusiast, I’m fascinated by engineering principles—especially those that take us beyond Earth. From spacecraft dynamics to propulsion systems, I love exploring the science that makes space travel possible.
 
-## ✈️ What I Work On
-3D Simulation: Currently developing a radial engine assembly simulation.
-Aerospace Engineering: Passionate about propulsion, aerodynamics, and structural analysis.
-Web Development: Building a website to showcase my projects and research.
+### ✈️ What I'm Working On
+**Aerospace Engineering**: Pursuing 3rd-Year Bachelor's, specializing in Space Systems & Design  
+**3D Simulation**: Currently developing a radial engine assembly simulation.  
+**Web Developmen**t: Building a website to showcase my projects and research.
 
 
 <!--
