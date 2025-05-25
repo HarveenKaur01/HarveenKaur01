@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Harveen! 🚀
+Welcome to my GitHub profile! As an aerospace engineering enthusiast, I'm fascinated by the mechanics, simulation, and innovation behind flight and propulsion systems. From designing 3D simulations to exploring aerodynamics, I love learning new engineering principles.
+
+✈️ What I Work On
+3D Simulation: Currently developing a radial engine assembly simulation.
+Aerospace Engineering: Passionate about propulsion, aerodynamics, and structural analysis.
+Web Development: Building a website to showcase my projects and research.
+
 
 <!--
 **HarveenKaur01/HarveenKaur01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
